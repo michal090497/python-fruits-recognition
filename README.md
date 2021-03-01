@@ -33,7 +33,7 @@ Main script used to show neural network predictions on given images. Image shoul
 * 
 ## Credits
 The project has been developed by:
-- Michał Kliczkowski
+- [Michał Kliczkowski](https://github.com/michal090497)
 - [Tomasz Jankowski](https://github.com/tomasz-jankowski)
 
 ## License
