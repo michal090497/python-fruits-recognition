@@ -30,7 +30,7 @@ Main script used to show neural network predictions on given images. Image shoul
 * tensorflow 2.1.0
 * tqdm 4.46.0
 * tabulate 0.8.3
-* 
+ 
 ## Credits
 The project has been developed by:
 - [Michał Kliczkowski](https://github.com/michal090497)
